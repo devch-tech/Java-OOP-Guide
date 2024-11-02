@@ -76,7 +76,7 @@
 ### 1. Enlaces útiles para aprender Java y POO
 - [Oracle Java Documentation](https://docs.oracle.com/en/java/): Documentación oficial de Java.
 - [Java Design Patterns](https://java-design-patterns.com/): Ejemplos y patrones de diseño en Java.
-- [Stack Overflow](https://stackoverflow.com/): Comunidad de programadores donde puedes resolver tus dudas.
+- [Píldoras Informáticas - Curso de Informática](https://www.youtube.com/user/pildorasinformaticas): Canal de YouTube con tutoriales sobre Java y otros temas de programación.
 - [Geeks for Geeks](https://www.geeksforgeeks.org/): Artículos y tutoriales de Java y otros temas de programación.
 
 ### 2. Libros recomendados
