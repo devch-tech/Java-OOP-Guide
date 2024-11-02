@@ -6,74 +6,69 @@
 
 ## 📚 Contenido de la Guía
 
-### 🏁 [Módulo 1: Introducción al QA Manual](Modulo-01-Introduccion-al-QA-Manual)
+### [🏁 Introducción a la Programación Orientada a Objetos](Módulo-01-Introducción-POO)
 - ¿Qué es la Programación Orientada a Objetos?
 - Importancia de la POO en el desarrollo de software
 - Ventajas y características principales
 
-### 🧩 [Módulo 2: Fundamentos de QA](Modulo-02-Fundamentos-de-QA)
+### [🧩 Clases y Objetos](Módulo-02-Clases-y-Objetos)
 - Definición de clase y objeto
 - Creación de clases y objetos en Java
 - Diferencias entre clases y objetos
 
-### 🔐 [Módulo 3: Ciclo de Vida del Desarrollo de Software (SDLC)](Modulo-03-Ciclo-de-Vida-del-Desarrollo-de-Software-SDLC)
+### [🔐 Encapsulamiento](Módulo-03-Encapsulamiento)
 - ¿Qué es el encapsulamiento?
-- Uso de modificadores de acceso (`public`, `private`, `protected`)
+- Uso de modificadores de acceso (public, private, protected)
 - Métodos getter y setter
 
-### 🧬 [Módulo 4: Ciclo de Vida del Testing (STLC)](Modulo-04-Ciclo-de-Vida-del-Testing-STLC)
+### [🧬 Herencia](Módulo-04-Herencia)
 - Concepto de herencia en Java
-- Palabra clave `extends`
+- Palabra clave extends
 - Beneficios de la herencia y jerarquía de clases
 
-### 🎭 [Módulo 5: Diseño de Casos de Prueba](Modulo-05-Diseño-de-Casos-de-Prueba)
+### [🎭 Polimorfismo](Módulo-05-Polimorfismo)
 - ¿Qué es el polimorfismo?
 - Polimorfismo en tiempo de compilación y en tiempo de ejecución
 - Ventajas del polimorfismo en Java
 
-### 🎨 [Módulo 6: Tipos de Pruebas Manuales](Modulo-06-Tipos-de-Pruebas-Manuales)
+### [🎨 Abstracción](Módulo-06-Abstracción)
 - Clases abstractas y métodos abstractos
 - Interfaces en Java
 - Comparación entre clases abstractas e interfaces
 
-### ⚙️ [Módulo 7: Gestión de Defectos](Modulo-07-Gestion-de-Defectos)
+### [⚙️ Constructores y Sobrecarga de Constructores](Módulo-07-Constructores-y-Sobrecarga-de-Constructores)
 - ¿Qué es un constructor?
 - Uso y características de los constructores
 - Sobrecarga de constructores en Java
 
-### 🔄 [Módulo 8: Herramientas de QA Manual](Modulo-08-Herramientas-de-QA-Manual)
+### [🔄 Sobrecarga y Sobrescritura de Métodos](Módulo-08-Sobrecarga-y-Sobrescritura-de-Métodos)
 - Diferencias entre sobrecarga y sobrescritura de métodos
 - Uso en POO para mejorar la funcionalidad de las clases
 
-### 📝 [Módulo 9: Documentación de Pruebas](Modulo-09-Documentacion-de-Pruebas)
-- Definición y usos del modificador `static`
+### [📝 Métodos de Instancia y Métodos Estáticos](Módulo-09-Métodos-de-Instancia-y-Métodos-Estáticos)
+- Definición y usos del modificador static
 - Diferencias entre métodos de instancia y métodos estáticos
 
-### 🛠️ [Módulo 10: Automatización de Pruebas - Introducción para QA Manual](Modulo-10-Automatizacion-de-Pruebas-Introduccion-para-QA-Manual)
+### [🛠️ Variables de Instancia y Variables de Clase](Módulo-10-Variables-de-Instancia-y-Variables-de-Clase)
 - Concepto de variables de instancia y variables de clase
 - Diferencias y cómo se usan en la POO
 
-### 📐 [Módulo 11: Pruebas en Entornos Ágiles](Modulo-11-Pruebas-en-Entornos-Agiles)
+### [📐 Clases Internas y Anónimas](Módulo-11-Clases-Internas-y-Anónimas)
 - ¿Qué son las clases internas y anónimas?
 - Uso en Java y cómo simplifican el código
 
-### 💡 [Módulo 12: Buenas Prácticas en QA Manual](Modulo-12-Buenas-Practicas-en-QA-Manual)
+### [💡 Principios SOLID](Módulo-12-Principios-SOLID)
 - Introducción a los principios SOLID
 - Aplicación de SOLID en diseño orientado a objetos
 
-### 🔒 [Módulo 13: Preparación para Entrevistas de QA Manual](Modulo-13-Preparacion-para-Entrevistas-de-QA-Manual)
-- `public`, `private`, `protected`, `default`
+### [🔒 Modificadores de Acceso en Profundidad](Módulo-13-Modificadores-de-Acceso)
+- public, private, protected, default
 - Ejemplos de cómo afectan la visibilidad de clases y miembros
 
-### 📏 [Módulo 14: Talleres Prácticos y Ejercicios](Modulo-14-Talleres-Practicos-y-Ejercicios)
+### [📏 Buenas Prácticas en POO](Módulo-14-Buenas-Prácticas-en-POO)
 - Consejos para mantener un código limpio y eficiente
 - Errores comunes a evitar en la POO
 
-### 🔚 [Módulo 15: Certificaciones y Crecimiento Profesional en QA](Modulo-15-Certificaciones-y-Crecimiento-Profesional-en-QA)
-- Recursos para continuar aprendiendo sobre QA
-
-### 🏁 [Módulo 16: Conclusión del Curso](Modulo-16-Conclusion-del-Curso)
-- Resumen y próximos pasos
 ---
 
 ## 📘 Recursos Adicionales
