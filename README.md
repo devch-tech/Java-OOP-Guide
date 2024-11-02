@@ -6,69 +6,74 @@
 
 ## 📚 Contenido de la Guía
 
-### 🏁 Introducción a la Programación Orientada a Objetos
+### 🏁 [Módulo 1: Introducción al QA Manual](Modulo-01-Introduccion-al-QA-Manual)
 - ¿Qué es la Programación Orientada a Objetos?
 - Importancia de la POO en el desarrollo de software
 - Ventajas y características principales
 
-### 🧩 Clases y Objetos
+### 🧩 [Módulo 2: Fundamentos de QA](Modulo-02-Fundamentos-de-QA)
 - Definición de clase y objeto
 - Creación de clases y objetos en Java
 - Diferencias entre clases y objetos
 
-### 🔐 Encapsulamiento
+### 🔐 [Módulo 3: Ciclo de Vida del Desarrollo de Software (SDLC)](Modulo-03-Ciclo-de-Vida-del-Desarrollo-de-Software-SDLC)
 - ¿Qué es el encapsulamiento?
 - Uso de modificadores de acceso (`public`, `private`, `protected`)
 - Métodos getter y setter
 
-### 🧬 Herencia
+### 🧬 [Módulo 4: Ciclo de Vida del Testing (STLC)](Modulo-04-Ciclo-de-Vida-del-Testing-STLC)
 - Concepto de herencia en Java
 - Palabra clave `extends`
 - Beneficios de la herencia y jerarquía de clases
 
-### 🎭 Polimorfismo
+### 🎭 [Módulo 5: Diseño de Casos de Prueba](Modulo-05-Diseño-de-Casos-de-Prueba)
 - ¿Qué es el polimorfismo?
 - Polimorfismo en tiempo de compilación y en tiempo de ejecución
 - Ventajas del polimorfismo en Java
 
-### 🎨 Abstracción
+### 🎨 [Módulo 6: Tipos de Pruebas Manuales](Modulo-06-Tipos-de-Pruebas-Manuales)
 - Clases abstractas y métodos abstractos
 - Interfaces en Java
 - Comparación entre clases abstractas e interfaces
 
-### ⚙️ Constructores y Sobrecarga de Constructores
+### ⚙️ [Módulo 7: Gestión de Defectos](Modulo-07-Gestion-de-Defectos)
 - ¿Qué es un constructor?
 - Uso y características de los constructores
 - Sobrecarga de constructores en Java
 
-### 🔄 Sobrecarga y Sobrescritura de Métodos
+### 🔄 [Módulo 8: Herramientas de QA Manual](Modulo-08-Herramientas-de-QA-Manual)
 - Diferencias entre sobrecarga y sobrescritura de métodos
 - Uso en POO para mejorar la funcionalidad de las clases
 
-### 📝 Métodos de Instancia y Métodos Estáticos
+### 📝 [Módulo 9: Documentación de Pruebas](Modulo-09-Documentacion-de-Pruebas)
 - Definición y usos del modificador `static`
 - Diferencias entre métodos de instancia y métodos estáticos
 
-### 🛠️ Variables de Instancia y Variables de Clase
+### 🛠️ [Módulo 10: Automatización de Pruebas - Introducción para QA Manual](Modulo-10-Automatizacion-de-Pruebas-Introduccion-para-QA-Manual)
 - Concepto de variables de instancia y variables de clase
 - Diferencias y cómo se usan en la POO
 
-### 📐 Clases Internas y Anónimas
+### 📐 [Módulo 11: Pruebas en Entornos Ágiles](Modulo-11-Pruebas-en-Entornos-Agiles)
 - ¿Qué son las clases internas y anónimas?
 - Uso en Java y cómo simplifican el código
 
-### 💡 Principios SOLID
+### 💡 [Módulo 12: Buenas Prácticas en QA Manual](Modulo-12-Buenas-Practicas-en-QA-Manual)
 - Introducción a los principios SOLID
 - Aplicación de SOLID en diseño orientado a objetos
 
-### 🔒 Modificadores de Acceso en Profundidad
+### 🔒 [Módulo 13: Preparación para Entrevistas de QA Manual](Modulo-13-Preparacion-para-Entrevistas-de-QA-Manual)
 - `public`, `private`, `protected`, `default`
 - Ejemplos de cómo afectan la visibilidad de clases y miembros
 
-### 📏 Buenas Prácticas en POO
+### 📏 [Módulo 14: Talleres Prácticos y Ejercicios](Modulo-14-Talleres-Practicos-y-Ejercicios)
 - Consejos para mantener un código limpio y eficiente
 - Errores comunes a evitar en la POO
 
+### 🔚 [Módulo 15: Certificaciones y Crecimiento Profesional en QA](Modulo-15-Certificaciones-y-Crecimiento-Profesional-en-QA)
+- Recursos para continuar aprendiendo sobre QA
+
+### 🏁 [Módulo 16: Conclusión del Curso](Modulo-16-Conclusion-del-Curso)
+- Resumen y próximos pasos
 ---
 
 ## 📘 Recursos Adicionales
