@@ -51,5 +51,5 @@ public class Main {
     }
 }
 
-## Resumen
+**Resumen:**
 La Programación Orientada a Objetos es un enfoque poderoso para el desarrollo de software que mejora la organización, la reutilización y la mantenibilidad del código. A través de conceptos como clases y objetos, puedes modelar entidades del mundo real de manera efectiva.
