@@ -34,7 +34,6 @@ public class Main {
         miPerro.ladrar(); // Salida: Fido dice: ¡Guau!
     }
 }
-
 Diferencias entre clases y objetos
 Clase: Es un concepto abstracto que define un tipo de objeto. No ocupa memoria hasta que se crea un objeto.
 Objeto: Es una instancia concreta de una clase. Ocupa memoria y tiene un estado específico.
