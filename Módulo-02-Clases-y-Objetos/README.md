@@ -11,6 +11,7 @@ Para crear una clase en Java, se utiliza la palabra clave `class`, seguida del n
 ### Ejemplo de Código
 Aquí tienes un ejemplo simple que muestra cómo crear una clase `Perro` y un objeto de esa clase:
 
+```java
 class Perro {
     // Atributos
     String nombre;
@@ -33,18 +34,4 @@ public class Main {
         miPerro.ladrar(); // Salida: Fido dice: ¡Guau!
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-Diferencias entre clases y objetos
-Clase: Es un concepto abstracto que define un tipo de objeto. No ocupa memoria hasta que se crea un objeto.
-Objeto: Es una instancia concreta de una clase. Ocupa memoria y tiene un estado específico.
-Ejemplo de la vida real: Siguiendo el ejemplo del pastel, la receta (clase) no es comestible ni ocupa espacio en la cocina, mientras que el pastel horneado (objeto) es un producto tangible que puedes comer y ocupa espacio.
+´´´java
