@@ -11,7 +11,6 @@ Para crear una clase en Java, se utiliza la palabra clave `class`, seguida del n
 ### Ejemplo de Código
 Aquí tienes un ejemplo simple que muestra cómo crear una clase `Perro` y un objeto de esa clase:
 
-```java
 class Perro {
     // Atributos
     String nombre;
