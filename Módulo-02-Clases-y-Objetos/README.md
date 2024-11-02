@@ -33,7 +33,8 @@ public class Main {
         // Usando el método del objeto
         miPerro.ladrar(); // Salida: Fido dice: ¡Guau!
     }
-}```
+}
+´´´
 
 Diferencias entre clases y objetos
 Clase: Es un concepto abstracto que define un tipo de objeto. No ocupa memoria hasta que se crea un objeto.
