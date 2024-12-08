@@ -74,6 +74,10 @@
 - Consejos para mantener un código limpio y eficiente
 - Errores comunes a evitar en la POO
 
+### [🎯 Ejercicios de Programación Orientada a Objetos](Módulo-16-Ejercicios/README.md)
+- 50 ejercicios prácticos para reforzar tus conocimientos de POO
+- Desafíos que cubren temas de clases, herencia, polimorfismo y más
+
 ---
 
 ## 📘 Recursos Adicionales
