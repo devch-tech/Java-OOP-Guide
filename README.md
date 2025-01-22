@@ -96,3 +96,8 @@
 ### 3. Comunidades y foros de interés
 - [JavaRanch](https://coderanch.com/): Comunidad sobre Java y otros temas de programación.
 - [Reddit - Learn Java](https://www.reddit.com/r/learnjava/): Subreddit dedicado al aprendizaje de Java.
+
+---
+
+### 📢 Créditos y Derechos de Autor
+Esta guía es de mi propiedad. Si realizas un fork, compartes o utilizas esta guía para fines publicitarios, **por favor otorga los créditos correspondientes**.
